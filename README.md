@@ -1,0 +1,2 @@
+# cricbuzz
+derives  player deatails
